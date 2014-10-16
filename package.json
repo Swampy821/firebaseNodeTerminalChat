@@ -1,0 +1,26 @@
+{
+    "name": "firebase terminal chat",
+    "description" : "Basic proof of concept",
+    "version": "0.0.1",
+    "contributors" : [
+        {
+            "name" : "Swampy821"
+        }
+    ],
+    "dependencies" : {
+        "prompt":"*",
+        "firebase":"*"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/Swampy821/firebaseNodeTerminalChat.git"
+    },
+    "keywords" : [
+        "node",
+        "firebase"
+    ],
+    "license" : "MIT",
+    "engines" : {
+        "node" : ">=0.10"
+    }
+}
